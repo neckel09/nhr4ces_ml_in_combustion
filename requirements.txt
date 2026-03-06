@@ -1,0 +1,6 @@
+torch
+cantera
+scipy
+matplotlib
+pandas
+jupyter
